@@ -2,8 +2,8 @@
 
 int main(int argc, char* argv[])
 {
-	char a[5]={"è´è´"};
-	printf("%så¤ªåäº†ï¼ï¼ï¼\n", a);
+	char a[5]={"±´±´"};
+	printf("%sÌ«»µÁË\n", a);
 	
 	return 0;
 }
