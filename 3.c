@@ -2,7 +2,8 @@
 
 int main(int argc, char* argv[])
 {
-	printf("太坏了！！！\n");
+	char a[5]={"贝贝"};
+	printf("%s太坏了！！！\n", a);
 	
 	return 0;
 }
